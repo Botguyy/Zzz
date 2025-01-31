@@ -1,7 +1,7 @@
 #Code by HermanErKu
 #Made in Python 3.9
 import pyautogui
-import react ( '🤣' ) 
+import react ( '😭' ) 
 import time
 
 word = input(" NUKED BY ONI - @everyone ")  #asks what you want to spam
